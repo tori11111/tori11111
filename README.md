@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/게임-239120?style=for-the-badge&logo=D32936&logoColor=white">
+<img src="https://img.shields.io/badge/게임-riot-239120?style=for-the-badge&logo=D32936&logoColor=white">
 <!--
 **tori11111/tori11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
