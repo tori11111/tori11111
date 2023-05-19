@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![C#](https://img.shields.io/badge/C언어종류-C++++-239120?style=&logo=csharp&logoColor=white)
 <!--
 **tori11111/tori11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
